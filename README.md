@@ -1,1 +1,1 @@
-# skola
+# School project
